@@ -1,0 +1,7 @@
+ollama
+instagrapi
+pillow
+moviepy
+numpy
+soundfile
+kokoro 
